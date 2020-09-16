@@ -190,7 +190,7 @@ img{max-width: 100%; border: none;}
     text-align: center;
     color: #fff;
     padding: 100px 0;
-    background-image: url(images/bg-search.jpg);
+    background-image: url(../images/bg-search.jpg);
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -322,7 +322,7 @@ img{max-width: 100%; border: none;}
     text-align: center;
     color: #fff;
     padding: 160px 0;
-    background-image: url(images/bg-paralax.jpg);
+    background-image: url(../images/bg-paralax.jpg);
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -359,7 +359,7 @@ img{max-width: 100%; border: none;}
 
 .testemunhas{
     padding: 100px 0;
-    background-image: url(images/bg-testemunhas.jpg);
+    background-image: url(../images/bg-testemunhas.jpg);
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
